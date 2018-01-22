@@ -1,9 +1,10 @@
 # Books
 The books I've read.
 
-<strong>Reading</strong>
+<h3>Reading</h3>
 <li>F. NIETZSCHE - A filosofia na era Tragica dos Gregos</li>
 
+<h3>Books read</h3>
 <ul>
   <li><strong>Anton Pavlovitch Tchekhov</strong>
     <ul>
