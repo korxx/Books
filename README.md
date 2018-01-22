@@ -1,6 +1,9 @@
 # Books
 The books I've read.
 
+<strong>Reading</strong>
+<li>F. NIETZSCHE - A filosofia na era Tragica dos Gregos</li>
+
 <ul>
   <li><strong>Anton Pavlovitch Tchekhov</strong>
     <ul>
