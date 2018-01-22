@@ -1,6 +1,5 @@
 # Books
-The books I've read, and what I've taken from them.
-
+The books I've read.
 
 <ul>
   <li><strong>Anton Pavlovitch Tchekhov</strong>
