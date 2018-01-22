@@ -3,6 +3,11 @@ The books I've read, and what I've taken from them.
 
 
 <ul>
+  <li><strong>Anton Pavlovitch Tchekhov</strong>
+    <ul>
+      <li>Um homem extraordinário e outras histórias</li>
+    </ul>
+  </li> 
   <li><strong>Sir Arthur Conan Doyle</strong>
       <ul>
         <li>O Signo dos Quatro</li>
@@ -10,10 +15,33 @@ The books I've read, and what I've taken from them.
         <li>Um Estudo em Vermelho</li>
       </ul>
   </li>
+  <li><strong>Arthur Schopenhauer</strong>
+    <ul>
+      <li>Sobre a Vontade na Natureza</li>
+    </ul>
+  </li> 
+  <li><strong>Charles Baudelaire</strong>
+    <ul>
+      <li>O Spleen de Paris</li>
+    </ul>
+  </li>
   <li><strong>Charles Bukowski</strong>
     <ul>
+      <li>Factótum</li>
+      <li>Hollywood</li>
+      <li>Notas de um Velho Safado</li>
       <li>Numa Fria</li>
+      <li>Misto-Quente</li>
+      <li>Mulheres</li>
       <li>O amor é um cão dos diabos</li>
+      <li>Pulp</li>
+      <li>Queimando na Água, Afogando-se na Chama</li>
+    </ul>
+  </li>
+  <li><strong>Charles Lutwidge Dogson (Lewis Carroll)</strong>
+    <ul>
+      <li>Alice no País das Maravilhas</li>
+      <li>Alice no País do Espelho</li>
     </ul>
   </li>
   <li><strong>Daniel Defoe</strong>
@@ -42,9 +70,22 @@ The books I've read, and what I've taken from them.
       <li>Mensagem</li>
     </ul>
   </li> 
+  <li><strong>Fiódor Mikhailovitch Dostoiévski</strong>
+    <ul>
+      <li>Notas do Subsolo</li>
+      <li>O Eterno Marido</li>
+      <li>O Jogador</li>
+    </ul>
+  </li> 
   <li><strong>Franz Kafka</strong>
     <ul>
       <li>Carta ao Pai</li>
+    </ul>
+  </li> 
+  <li><strong>Friedrich Nietzsche</strong>
+    <ul>
+      <li>Além do Bem e do Mal</li>
+      <li>Assim Falava Zaratustra</li>
     </ul>
   </li> 
   <li><strong>George Woodcock</strong>
@@ -56,8 +97,14 @@ The books I've read, and what I've taken from them.
     <ul>
       <li>A Cor que caiu do Espaço</li>
       <li>A Sombra de Innsmouth</li>
+      <li>O Caso de Charles Dexter Ward</li>
       <li>O Chamado de Cthulu e Outros Contos</li>
       <li>Um Sussurro nas Trevas</li>
+    </ul>
+  </li>
+  <li><strong>Jean-Jacques Rousseau</strong>
+    <ul>
+      <li>Os Devaneios do Caminhante Solitário</li>
     </ul>
   </li>
   <li><strong>Leonardo Da Vinci</strong>
@@ -73,11 +120,28 @@ The books I've read, and what I've taken from them.
   <li><strong>Nicolau Maquiavel</strong>
     <ul>
       <li>A Arte da Guerra</li>
+      <li>O Príncipe</li>
     </ul>
   </li>
   <li><strong>Pablo Neruda</strong>
     <ul>
       <li>Elegia</li>
+    </ul>
+  </li>
+  <li><strong>René Descartes</strong>
+    <ul>
+      <li>Discurso do Método</li>
+    </ul>
+  </li>
+  <li><strong>Richard Dawkins</strong>
+    <ul>
+      <li>The God Delusion</li>
+    </ul>
+  </li>
+  <li><strong>Robert Louis Stevenson</strong>
+    <ul>
+      <li>A Ilha do Tesouro</li>
+      <li>O Médico e o Monstro</li>
     </ul>
   </li>
   <li><strong>Sigmund Freud</strong>
@@ -88,6 +152,11 @@ The books I've read, and what I've taken from them.
   <li><strong>Sun Tzu</strong>
     <ul>
       <li>A Arte da Guerra</li>
+    </ul>
+  </li>
+  <li><strong>Thomas Harris</strong>
+    <ul>
+      <li>Hannibal, a Origem do Mal</li>
     </ul>
   </li>
   <li><strong>Woody Allen</strong>
