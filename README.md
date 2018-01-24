@@ -1,5 +1,5 @@
 # Books
-The books I've read.
+The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
 <li>F. NIETZSCHE - A filosofia na era Tragica dos Gregos</li>
@@ -13,6 +13,8 @@ The books I've read.
   </li> 
   <li><strong>Sir Arthur Conan Doyle</strong>
       <ul>
+        <li>As Aventuras de Sherlock Holmes</li>
+        <li>O Cão dos Baskerville</li>
         <li>O Signo dos Quatro</li>
         <li>O Vale do Terror</li>
         <li>Um Estudo em Vermelho</li>
@@ -20,9 +22,16 @@ The books I've read.
   </li>
   <li><strong>Arthur Schopenhauer</strong>
     <ul>
+      <li>A Arte de escrever</li>
+      <li>A Arte de ter Razão</li>
       <li>Sobre a Vontade na Natureza</li>
     </ul>
   </li> 
+  <li><strong>Avram Noam Chomsky</strong>
+    <ul>
+      <li>Quem manda no mundo?</li>
+    </ul>
+  </li>
   <li><strong>Charles Baudelaire</strong>
     <ul>
       <li>O Spleen de Paris</li>
@@ -45,6 +54,17 @@ The books I've read.
     <ul>
       <li>Alice no País das Maravilhas</li>
       <li>Alice no País do Espelho</li>
+    </ul>
+  </li>
+  <li><strong>Chuck Palahniuk</strong>
+    <ul>
+      <li>Fight Club</li>
+      <li>Snuff</li>
+    </ul>
+  </li> 
+  <li><strong>Confúcio</strong>
+    <ul>
+      <li>Os Analectos</li>
     </ul>
   </li>
   <li><strong>Daniel Defoe</strong>
@@ -82,15 +102,22 @@ The books I've read.
   </li> 
   <li><strong>Franz Kafka</strong>
     <ul>
+      <li>A Metamorfose</li>
       <li>Carta ao Pai</li>
     </ul>
   </li> 
   <li><strong>Friedrich Nietzsche</strong>
     <ul>
+      <li>Ecce homo</li>
       <li>Além do Bem e do Mal</li>
       <li>Assim Falava Zaratustra</li>
     </ul>
   </li> 
+   <li><strong>George Orwell</strong>
+    <ul>
+      <li>A Revolução dos Bichos</li>
+    </ul>
+  </li>
   <li><strong>George Woodcock</strong>
     <ul>
       <li>História das Ideias e Movimentos Anarquistas - Vol 1. A Ideia</li>
@@ -98,11 +125,23 @@ The books I've read.
   </li>
   <li><strong>Howard Phillips Lovecraft</strong>
     <ul>
+      <li>A Busca Onírica por Kadath</li>
       <li>A Cor que caiu do Espaço</li>
+      <li>A Maldição de Sarnath</li>
       <li>A Sombra de Innsmouth</li>
+      <li>Nas Montanhas da Loucura</li>
       <li>O Caso de Charles Dexter Ward</li>
       <li>O Chamado de Cthulu e Outros Contos</li>
       <li>Um Sussurro nas Trevas</li>
+    </ul>
+  </li>
+  <li><strong>Isaac Asimov</strong>
+    <ul>
+      <li>Eu, Robô</li>
+      <li>Fundação</li>
+      <li>Fundação e Império</li>
+      <li>Limites da Fundação</li>
+      <li>Segunda Fundação</li>
     </ul>
   </li>
   <li><strong>Jean-Jacques Rousseau</strong>
@@ -110,9 +149,31 @@ The books I've read.
       <li>Os Devaneios do Caminhante Solitário</li>
     </ul>
   </li>
+  <li><strong>Jeff VanderMeer</strong>
+    <ul>
+      <li>Aceitação</li>
+      <li>Aniquilação</li>
+      <li>Autoridade</li>
+    </ul>
+  </li>
+  <li><strong>Johannes Hessen</strong>
+    <ul>
+      <li>Teoria do Conhecimento</li>
+    </ul>
+  </li>
   <li><strong>Leonardo Da Vinci</strong>
     <ul>
       <li>Sátiras, Fábulas, Aforismos e Profecias</li>
+    </ul>
+  </li>
+  <li><strong>Mary Shelley</strong>
+    <ul>
+      <li>Frankenstein</li>
+    </ul>
+  </li>
+  <li><strong>Miyamoto Musashi</strong>
+    <ul>
+      <li>O Livro dos Cinco Anéis</li>
     </ul>
   </li> 
   <li><strong>Napoleão Bonaparte</strong>
@@ -126,19 +187,40 @@ The books I've read.
       <li>O Príncipe</li>
     </ul>
   </li>
+   <li><strong>Nicolaus Pevsner</strong>
+    <ul>
+      <li>Origens da Arquitetura Moderna e do Design</li>
+    </ul>
+  </li>
   <li><strong>Pablo Neruda</strong>
     <ul>
       <li>Elegia</li>
     </ul>
   </li>
+  <li><strong>Ray Bradbury</strong>
+    <ul>
+      <li>Fahrenheit 451</li>
+    </ul>
+  </li>
+   <li><strong>Raymond Kurzweil</strong>
+    <ul>
+      <li>Como criar uma Mente</li>
+    </ul>
+  </li>
   <li><strong>René Descartes</strong>
     <ul>
       <li>Discurso do Método</li>
+      <li>Meditações Metafísicas</li>
     </ul>
   </li>
   <li><strong>Richard Dawkins</strong>
     <ul>
       <li>The God Delusion</li>
+    </ul>
+  </li>
+   <li><strong>Richard Feldman</strong>
+    <ul>
+      <li>Epistemology</li>
     </ul>
   </li>
   <li><strong>Robert Louis Stevenson</strong>
@@ -150,6 +232,27 @@ The books I've read.
   <li><strong>Sigmund Freud</strong>
     <ul>
       <li>Psicologia das massas e análise do eu</li>
+    </ul>
+  </li>
+  <li><strong>Stephen Edwin King</strong>
+    <ul>
+      <li>Joyland</li>
+      <li>Sobre a Escrita</li>
+    </ul>
+  </li>
+  <li><strong>Stephen William Hawking</strong>
+    <ul>
+      <li>O Universo numa Casca de Noz</li>
+    </ul>
+  </li>
+  <li><strong>Steven Arthur Pinker</strong>
+    <ul>
+      <li>Como funciona a Mente</li>
+    </ul>
+  </li>
+  <li><strong>Steven Mithen</strong>
+    <ul>
+      <li>A pré-história da Mente</li>
     </ul>
   </li>
   <li><strong>Sun Tzu</strong>
