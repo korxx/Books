@@ -2,7 +2,7 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
-<li>F. NIETZSCHE - A filosofia na era Tragica dos Gregos</li>
+<li>F. NIETZSCHE - Crespusculo dos idolos</li>
 
 <h3>Books read</h3>
 <ul>
@@ -108,6 +108,7 @@ The books I've read (and found worthy of note).
   </li> 
   <li><strong>Friedrich Nietzsche</strong>
     <ul>
+      <li>A Filosofia na Era Trágica dos Gregos</li>
       <li>Ecce homo</li>
       <li>Além do Bem e do Mal</li>
       <li>Assim Falava Zaratustra</li>
