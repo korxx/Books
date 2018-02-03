@@ -2,7 +2,7 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
-<li>F. NIETZSCHE - Crespusculo dos idolos</li>
+<li>F. NIETZSCHE - Crepusculo dos idolos</li>
 
 <h3>Books read</h3>
 <ul>
