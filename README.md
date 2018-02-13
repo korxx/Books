@@ -2,7 +2,7 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
-<li>F. NIETZSCHE - Crepusculo dos idolos</li>
+<li>Alan Watts - O espirito do Zen</li>
 
 <h3>Books read</h3>
 <ul>
@@ -109,9 +109,10 @@ The books I've read (and found worthy of note).
   <li><strong>Friedrich Nietzsche</strong>
     <ul>
       <li>A Filosofia na Era Trágica dos Gregos</li>
-      <li>Ecce homo</li>
       <li>Além do Bem e do Mal</li>
       <li>Assim Falava Zaratustra</li>
+      <li>Crepúsculo dos Ídolos</li>
+      <li>Ecce homo</li>
     </ul>
   </li> 
    <li><strong>George Orwell</strong>
