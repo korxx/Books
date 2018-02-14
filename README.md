@@ -72,6 +72,12 @@ The books I've read (and found worthy of note).
       <li>Contos de Fantasmas</li>
     </ul>
   </li>
+   <li><strong>Daniel Goleman</strong>
+    <ul>
+      <li>Foco</li>
+      <li>O Foco Triplo</li>
+    </ul>
+  </li>
   <li><strong>Edgar Allan Poe</strong>
     <ul>
       <li>Assassinatos na Rua Morgue e outras histórias</li>
