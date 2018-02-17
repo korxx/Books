@@ -2,10 +2,15 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
-<li>Alan Watts - O espirito do Zen</li>
+<li>Tomas Morus - A Utopia</li>
 
 <h3>Books read</h3>
 <ul>
+  <li><strong>Alan Wilson Watts</strong>
+    <ul>
+      <li>O espírito do Zen</li>
+    </ul>
+  </li> 
   <li><strong>Anton Pavlovitch Tchekhov</strong>
     <ul>
       <li>Um homem extraordinário e outras histórias</li>
