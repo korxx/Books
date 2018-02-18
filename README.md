@@ -37,6 +37,11 @@ The books I've read (and found worthy of note).
       <li>Quem manda no mundo?</li>
     </ul>
   </li>
+  <li><strong>Carlos Drummond de Andrade</strong>
+    <ul>
+      <li>A Rosa do Povo</li>
+    </ul>
+  </li>
   <li><strong>Charles Baudelaire</strong>
     <ul>
       <li>O Spleen de Paris</li>
@@ -276,6 +281,11 @@ The books I've read (and found worthy of note).
   <li><strong>Thomas Harris</strong>
     <ul>
       <li>Hannibal, a Origem do Mal</li>
+    </ul>
+  </li>
+  <li><strong>W. Chan Kim</strong>
+    <ul>
+      <li>Blue Ocean Strategy</li>
     </ul>
   </li>
   <li><strong>Woody Allen</strong>
