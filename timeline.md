@@ -3,6 +3,8 @@
 <li><strong>State</strong> Book</li>
 February
 <ul>
-<li><strong>S</strong> 17/2/2018 - Utopia</li>
+<li><strong>S</strong> 21/2/2018 - Friedrich Nietzsche - Genealogia da Moral</li>
+<li><strong>F</strong> 21/2/2018 - Sir Thomas More - A Utopia</li>
+<li><strong>S</strong> 17/2/2018 - Sir Thomas More - A Utopia</li>
 <li><strong>F</strong> 17/2/2018 - O espirit</li>
 </ul>
