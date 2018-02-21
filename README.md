@@ -122,7 +122,7 @@ The books I've read (and found worthy of note).
       <li>Carta ao Pai</li>
     </ul>
   </li> 
-  <li><strong>Friedrich Nietzsche</strong>
+  <li><strong>Friedrich Wilhelm Nietzsche</strong>
     <ul>
       <li>A Filosofia na Era Trágica dos Gregos</li>
       <li>Além do Bem e do Mal</li>
