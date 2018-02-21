@@ -2,7 +2,7 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
-<li>Tomas Morus - A Utopia</li>
+<li>Friedrich Nietzsche - Genealogia da Moral</li>
 
 <h3>Books read</h3>
 <ul>
@@ -281,6 +281,11 @@ The books I've read (and found worthy of note).
   <li><strong>Thomas Harris</strong>
     <ul>
       <li>Hannibal, a Origem do Mal</li>
+    </ul>
+  </li>
+  <li><strong>Sir Thomas More</strong>
+    <ul>
+      <li>A Utopia</li>
     </ul>
   </li>
   <li><strong>W. Chan Kim</strong>
