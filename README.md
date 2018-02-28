@@ -2,7 +2,7 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
-<li>Friedrich Nietzsche - Genealogia da Moral</li>
+<li>Chad Orzel - How to teach Quantum Physics to your dog</li>
 
 <h3>Books read</h3>
 <ul>
@@ -129,6 +129,7 @@ The books I've read (and found worthy of note).
       <li>Assim Falava Zaratustra</li>
       <li>Crepúsculo dos Ídolos</li>
       <li>Ecce homo</li>
+      <li>Genalogia da Moral</li>
     </ul>
   </li> 
    <li><strong>George Orwell</strong>
