@@ -2,7 +2,7 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
-<li>Chad Orzel - How to teach Quantum Physics to your dog</li>
+<li>Isaac Asimov - Fundação e Terra</li>
 
 <h3>Books read</h3>
 <ul>
@@ -40,6 +40,11 @@ The books I've read (and found worthy of note).
   <li><strong>Carlos Drummond de Andrade</strong>
     <ul>
       <li>A Rosa do Povo</li>
+    </ul>
+  </li>
+  <li><strong>Chad Orzel</strong>
+    <ul>
+      <li>How to teach Quantum Physics to your dog</li>
     </ul>
   </li>
   <li><strong>Charles Baudelaire</strong>
