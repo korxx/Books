@@ -2,6 +2,7 @@
 
 <li><strong>State</strong> Book</li>
 March
+<li><strong>F</strong> 21/3/2018 - Isaac Asimov - Fundacao e terra</li>
 <li><strong>S</strong> 6/3/2018 - Isaac Asimov - Fundacao e terra</li>
 <li><strong>F</strong> 6/3/2018 - Chad Orzel - How to teach Quantum Physics to your dog</li>
 February
