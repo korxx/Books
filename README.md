@@ -2,7 +2,7 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
-<li>Isaac Asimov - Fundação e Terra</li>
+<li>?</li>
 
 <h3>Books read</h3>
 <ul>
@@ -166,6 +166,7 @@ The books I've read (and found worthy of note).
       <li>Fundação e Império</li>
       <li>Limites da Fundação</li>
       <li>Segunda Fundação</li>
+      <li>Fundação e Terra</li>
     </ul>
   </li>
   <li><strong>Jean-Jacques Rousseau</strong>
