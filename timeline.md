@@ -1,6 +1,10 @@
 # Timeline
 
 <li><strong>State</strong> Book</li>
+April
+<li><strong>S</strong> 1/4/2018 - Moore - Critical Thinking</li>
+<li><strong>S</strong> 1/4/2018 - Lovecraft - A Tumba</li>
+<li><strong>S</strong> 1/4/2018 - Witt - Prototractatus</li>
 March
 <li><strong>S</strong> 21/3/2018 - Niti - Anticr</li>
 <li><strong>F</strong> 21/3/2018 - Isaac Asimov - Fundacao e terra</li>
