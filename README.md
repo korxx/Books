@@ -2,6 +2,9 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
+<li>Ludwig Josef Johann Wittgenstein - Prototractatus</li>
+<li>H.P. Lovecraft - A Tumba</li>
+<li>Cairl E. Moore - Critical Thinking</li>
 <li>Friedrich Wilhelm Nietzsche - O Anticristo</li>
 
 <h3>Books read</h3>
