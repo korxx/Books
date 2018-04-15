@@ -2,10 +2,11 @@
 The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
-<li>Ludwig Josef Johann Wittgenstein - Prototractatus</li>
+
+<li>Ian Robinson - Graph Databases</li>
+<li>Aaron Zimmerman - Moral Epistemology</li>
 <li>H.P. Lovecraft - A Tumba</li>
 <li>Cairl E. Moore - Critical Thinking</li>
-<li>Friedrich Wilhelm Nietzsche - O Anticristo</li>
 
 <h3>Books read</h3>
 <ul>
@@ -138,6 +139,7 @@ The books I've read (and found worthy of note).
       <li>Crepúsculo dos Ídolos</li>
       <li>Ecce homo</li>
       <li>Genalogia da Moral</li>
+      <li>O Anticristo</li>
     </ul>
   </li> 
    <li><strong>George Orwell</strong>
@@ -192,6 +194,11 @@ The books I've read (and found worthy of note).
   <li><strong>Leonardo Da Vinci</strong>
     <ul>
       <li>Sátiras, Fábulas, Aforismos e Profecias</li>
+    </ul>
+  </li>
+  <li><strong>Ludwig Josef Johann Wittgenstein</strong>
+    <ul>
+      <li>Prototractatus</li>
     </ul>
   </li>
   <li><strong>Mary Shelley</strong>
