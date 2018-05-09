@@ -3,13 +3,18 @@ The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
 
+<li>Slavoj Zizek - A visão em paralaxe</li>
 <li>Ian Robinson - Graph Databases</li>
-<li>Aaron Zimmerman - Moral Epistemology</li>
 <li>H.P. Lovecraft - A Tumba</li>
 <li>Cairl E. Moore - Critical Thinking</li>
 
 <h3>Books read</h3>
 <ul>
+  <li><strong>Aaron Zimmerman</strong>
+    <ul>
+      <li>Moral Epistemology</li>
+    </ul>
+  </li>
   <li><strong>Alan Wilson Watts</strong>
     <ul>
       <li>O espírito do Zen</li>
