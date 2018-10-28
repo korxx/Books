@@ -3,9 +3,7 @@ The books I've read (and found worthy of note).
 
 <h3>Reading</h3>
 
-<li>Slavoj Zizek - A visão em paralaxe</li>
 <li>Ian Robinson - Graph Databases</li>
-<li>H.P. Lovecraft - A Tumba</li>
 <li>Cairl E. Moore - Critical Thinking</li>
 
 <h3>Books read</h3>
@@ -74,6 +72,11 @@ The books I've read (and found worthy of note).
       <li>Queimando na Água, Afogando-se na Chama</li>
     </ul>
   </li>
+  <li><strong>Charles Darwin</strong>
+    <ul>
+      <li>O Diario do Beagle</li>
+    </ul>
+  </li>
   <li><strong>Charles Lutwidge Dogson (Lewis Carroll)</strong>
     <ul>
       <li>Alice no País das Maravilhas</li>
@@ -116,6 +119,11 @@ The books I've read (and found worthy of note).
   <li><strong>Erasmo de Roterdã</strong>
     <ul>
       <li>Elogia da Loucura</li>
+    </ul>
+  </li> 
+  <li><strong>Eric Ries</strong>
+    <ul>
+      <li>The Lean Startup</li>
     </ul>
   </li> 
   <li><strong>Fernando Pessoa</strong>
@@ -167,6 +175,7 @@ The books I've read (and found worthy of note).
       <li>O Caso de Charles Dexter Ward</li>
       <li>O Chamado de Cthulu e Outros Contos</li>
       <li>Um Sussurro nas Trevas</li>
+      <li>A Tumba</li>
     </ul>
   </li>
   <li><strong>Isaac Asimov</strong>
@@ -263,6 +272,16 @@ The books I've read (and found worthy of note).
       <li>Epistemology</li>
     </ul>
   </li>
+   <li><strong>Robert Carson Allen</strong>
+    <ul>
+      <li>Historia Economica Global</li>
+    </ul>
+  </li>
+   <li><strong>Robert Greene</strong>
+    <ul>
+      <li>48 Leis do Poder</li>
+    </ul>
+  </li>
   <li><strong>Robert Louis Stevenson</strong>
     <ul>
       <li>A Ilha do Tesouro</li>
@@ -272,6 +291,9 @@ The books I've read (and found worthy of note).
   <li><strong>Sigmund Freud</strong>
     <ul>
       <li>Psicologia das massas e análise do eu</li>
+      <li>Compendio da psicanalise</li>
+      <li>Inibicao, sintoma e medo</li>
+      <li>O futuro de uma ilusao</li>
     </ul>
   </li>
   <li><strong>Stephen Edwin King</strong>
